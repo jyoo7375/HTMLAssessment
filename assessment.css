@@ -1,3 +1,33 @@
 body {
 	background-color: lightskyblue;
 }
+
+table {
+	border: 1px solid black;
+	text-align: center;
+}
+
+th, td {
+	border: 1px solid black;
+	padding: 10px;
+}
+
+ul, li {
+	list-style-type: square;
+
+}
+caption {
+	font:bold;
+}
+
+a:hover{
+	background-color: yellowgreen;
+	text-decoration: none;
+}
+
+em {
+	background-color: darkblue;
+	color: green;
+}
+
+
